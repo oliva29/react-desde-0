@@ -1,0 +1,12 @@
+.square_green { 
+  @apply bg-green-500 absolute right-0 top-14 h-24 w-24
+}
+
+.square_red { 
+  @apply bg-red-500 absolute right-0 top-14 h-24 w-24
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
